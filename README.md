@@ -1,4 +1,4 @@
-Opauth-OAuth
+Opauth-DoYouBuzz
 =============
 Opauth strategy for DoYouBuzz authentification
 
