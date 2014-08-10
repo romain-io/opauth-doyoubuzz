@@ -1,0 +1,22 @@
+{
+	"name": "opauth/doyoubuzz",
+	"description": "DoYouBuzz strategy for Opauth",
+	"keywords": ["authentication","auth","doyoubuzz"],
+	"homepage": "http://opauth.org",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Romain SIMON",
+			"email": "rockshappy@live.fr"
+		}
+	],
+	"require": {
+		"php": ">=5.2.0",
+		"opauth/opauth": ">=0.2.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "."
+		}
+	}
+}
