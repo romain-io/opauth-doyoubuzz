@@ -1,15 +1,14 @@
 Opauth-OAuth
 =============
-A generic [Opauth][1] strategy implementing OAuth 1.0A, using [tmhOAuth](https://github.com/themattharris/tmhOAuth).
+Opauth strategy for DoYouBuzz authentification
 
-This is a generic OAuth strategy intended as a helper for developers of Opauth strategies, especially those that are based on OAuth.
-
+Implemented based on http://doc.doyoubuzz.com/dyb/oauth
 
 Getting started
 ---------------
 ```bash
 cd path_to_opauth/Strategy
-git clone git://github.com/uzyn/opauth-oauth.git OAuth
+git clone https://github.com/rockshappy/opauth-doyoubuzz.git DoYouBuzz
 ```
 
 
@@ -39,7 +38,6 @@ hash_hmac is available on PHP 5 >= 5.1.2.
 Reference
 ---------
  - [OAuth Core 1.0](http://oauth.net/core/1.0/)
- - [Twitter Authentication & Authorization](https://dev.twitter.com/docs/auth)
 
 License
 ---------
